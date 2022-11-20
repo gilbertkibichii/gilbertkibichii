@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gilbert Kibichii</h1>
 <h3 align="center">A passionate backend developer from Kenya</h3>
 
-<p align="left"> <a href="https://twitter.com/gilbertkibichii" target="blank"><img src="https://img.shields.io/twitter/follow/gilbertkibichii?logo=twitter&style=for-the-badge" alt="gilbertkibichii" /></a> </p>
+<p align="left"> <a href="https://twitter.com/GILBERTKIBICHII" target="blank"><img src="https://img.shields.io/twitter/follow/GILBERTKIBICHII?logo=twitter&style=for-the-badge" alt="gilbertkibichii" /></a> </p>
 
 - 🔭 I’m currently working on **Python**
 
