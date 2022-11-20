@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gilbertkibichii
-- 👀 I’m interested in ...backend development
-- 🌱 I’m currently learning ...django | Reactjs
+- 👀 I’m interested in ....django | Reactjs
+- 🌱 I’m currently learning ...android development
  - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...kibiciigilbert024@gmail.com
 
